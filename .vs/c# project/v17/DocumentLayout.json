@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rayha\\Downloads\\c# project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|c:\\users\\rayha\\downloads\\c# project\\c# project\\patientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|solutionrelative:c# project\\patientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|C:\\Users\\rayha\\Downloads\\c# project\\c# project\\patientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|solutionrelative:c# project\\patientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|c:\\users\\rayha\\downloads\\c# project\\c# project\\patientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|solutionrelative:c# project\\patientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|C:\\Users\\rayha\\Downloads\\c# project\\c# project\\patientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|solutionrelative:c# project\\patientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|c:\\users\\rayha\\downloads\\c# project\\c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|solutionrelative:c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|C:\\Users\\rayha\\Downloads\\c# project\\c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B9484BC-6FA2-4358-A9C7-2943DC0000F8}|c# project\\c# project.csproj|solutionrelative:c# project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientManager.cs",
+              "DocumentMoniker": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\PatientManager.cs",
+              "RelativeDocumentMoniker": "c# project\\PatientManager.cs",
+              "ToolTip": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\PatientManager.cs",
+              "RelativeToolTip": "c# project\\PatientManager.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAYwOEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T09:58:55.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\PatientManager.cs",
+              "RelativeDocumentMoniker": "c# project\\PatientManager.cs",
+              "ToolTip": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\PatientManager.cs [Design]",
+              "RelativeToolTip": "c# project\\PatientManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T09:58:53.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientView.cs",
+              "DocumentMoniker": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\PatientView.cs",
+              "RelativeDocumentMoniker": "c# project\\PatientView.cs",
+              "ToolTip": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\PatientView.cs",
+              "RelativeToolTip": "c# project\\PatientView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:36:41.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\PatientView.cs",
+              "RelativeDocumentMoniker": "c# project\\PatientView.cs",
+              "ToolTip": "F:\\C# project\\c# project\\c# project\\PatientView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:35:19.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\Form1.cs",
+              "RelativeDocumentMoniker": "c# project\\Form1.cs",
+              "ToolTip": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\Form1.cs",
+              "RelativeToolTip": "c# project\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowGQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:56.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rayha\\Downloads\\c# project\\c# project\\Form1.cs",
+              "RelativeDocumentMoniker": "c# project\\Form1.cs",
+              "ToolTip": "F:\\C# project\\c# project\\c# project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:53.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

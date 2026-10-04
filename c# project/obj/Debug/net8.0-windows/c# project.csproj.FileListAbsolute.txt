@@ -1,0 +1,74 @@
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\c# project.exe
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\c# project.deps.json
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\c# project.runtimeconfig.json
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\c# project.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\c# project.pdb
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c__project.Form1.resources
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.csproj.GenerateResource.cache
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.AssemblyInfoInputs.cache
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.AssemblyInfo.cs
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.csproj.CoreCompileInputs.cache
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.dll
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\refint\c# project.dll
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.pdb
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.genruntimeconfig.cache
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\ref\c# project.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\System.ClientModel.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\C# project\c# project\c# project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.csproj.AssemblyReference.cache
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c__project.Properties.Resources.resources
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c# project.csproj.Up2Date
+F:\C# project\c# project\c# project\obj\Debug\net8.0-windows\c__project.SignupForm.resources
+F:\C# project\C# project\c# project\obj\Debug\net8.0-windows\c__project.donerreg.resources
+F:\C# project\C# project\c# project\obj\Debug\net8.0-windows\firstpract.PatientManager.resources
+F:\C# project\C# project\c# project\obj\Debug\net8.0-windows\firstpract.DonorRegForm.resources
+F:\C# project\C# project\c# project\obj\Debug\net8.0-windows\c__project.PatientReqForm.resources
+F:\C# project\C# project\c# project\obj\Debug\net8.0-windows\firstpract.DonorManager.resources
+F:\C# project\C# project\c# project\obj\Debug\net8.0-windows\firstpract.BloodStock.resources
+F:\C# project\C# project\c# project\obj\Debug\net8.0-windows\c__project.BloodTransfer3.resources
+F:\C# project\C# project\c# project\obj\Debug\net8.0-windows\c__project.DonerView.resources
+F:\C# project\C# project\c# project\obj\Debug\net8.0-windows\c__project.PatientView.resources
