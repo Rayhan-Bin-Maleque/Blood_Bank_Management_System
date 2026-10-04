@@ -37,6 +37,20 @@ The main objectives of this project are:
 
 ---
 
+## 🏗️ System Architecture & Workflow
+
+The following diagram illustrates the overall architecture and workflow of the
+Blood Bank Management System, including user authentication, registration,
+donor and patient management, blood inventory, blood transfer processing,
+and SQL Server persistence.
+
+<p align="center">
+  <img src="diagram.png" alt="Blood Bank Management System Architecture" width="100%">
+</p>
+
+
+
+
 ## ✨ Main Features
 
 ### 1. User Login
